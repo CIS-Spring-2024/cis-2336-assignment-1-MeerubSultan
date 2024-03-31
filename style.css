@@ -81,6 +81,8 @@ nav a {
 a:hover{
     background-color: whitesmoke;
     color:black;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 footer p {
